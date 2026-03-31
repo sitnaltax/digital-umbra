@@ -42,7 +42,7 @@
   function effectColor(eff) {
     if (eff.type === 'skill') return SKILL_COLORS[eff.skill] ?? '#aaa';
     if (eff.type === 'skill_category') return CATEGORY_COLORS[eff.category] ?? '#aaa';
-    if (eff.type === 'data') return '#00f5ff';
+    if (eff.type === 'data') return '#00ff41';
     if (eff.type === 'expertise') return '#ff79c6';
     if (eff.type === 'draw') return '#50fa7b';
     if (eff.type === 'heat') return eff.amount > 0 ? '#ff5555' : '#44aa88';
@@ -155,8 +155,8 @@
   }
 
   .card.compact { min-width: 100px; max-width: 130px; padding: 0.5rem; }
-  .card:hover:not(.dimmed) { border-color: #00f5ff44; background: #131f30; }
-  .card.targeted { border-color: #00f5ff; box-shadow: 0 0 10px rgba(0,245,255,0.25); }
+  .card:hover:not(.dimmed) { border-color: #00ff4144; background: #131f30; }
+  .card.targeted { border-color: #00ff41; box-shadow: 0 0 10px rgba(0,255,65,0.25); }
   .card.selected { border-color: #ff79c6; box-shadow: 0 0 10px rgba(255,121,198,0.25); }
   .card.dimmed { opacity: 0.35; cursor: default; }
   .card.immediate { border-color: #ff555544; }
@@ -201,7 +201,7 @@
 
   .mult-hint {
     font-size: 0.65rem;
-    color: #00f5ff;
+    color: #00ff41;
     text-align: center;
     font-style: italic;
   }
@@ -237,7 +237,7 @@
   }
 
   .opt-letter {
-    color: #00f5ff;
+    color: #00ff41;
     font-family: 'Share Tech Mono', monospace;
     font-weight: 700;
   }
@@ -256,7 +256,7 @@
     left: 0;
     right: 0;
     background: #0f1824;
-    border: 1px solid #00f5ff;
+    border: 1px solid #00ff41;
     border-radius: 6px;
     padding: 0.75rem;
     display: flex;
@@ -287,7 +287,7 @@
     transition: border-color 0.1s;
   }
 
-  .opt-btn:hover { border-color: #00f5ff; }
+  .opt-btn:hover { border-color: #00ff41; }
 
   .opt-label {
     font-size: 0.8rem;

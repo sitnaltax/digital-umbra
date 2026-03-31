@@ -81,7 +81,7 @@
   h1 {
     font-family: 'Share Tech Mono', monospace;
     font-size: 1.4rem;
-    color: #00f5ff;
+    color: #00ff41;
     letter-spacing: 0.1em;
     border-bottom: 1px solid #1a2a3a;
     padding-bottom: 0.5rem;
@@ -115,7 +115,7 @@
   }
 
   .runner-card.selected, .diff-card.selected {
-    border-color: #00f5ff;
+    border-color: #00ff41;
     background: #0d1e2e;
   }
 
@@ -126,7 +126,7 @@
   .runner-name {
     font-size: 1.2rem;
     font-weight: 700;
-    color: #00f5ff;
+    color: #00ff41;
   }
 
   .runner-tagline {
@@ -195,8 +195,8 @@
     align-self: flex-start;
     padding: 0.85rem 2.5rem;
     background: transparent;
-    border: 2px solid #00f5ff;
-    color: #00f5ff;
+    border: 2px solid #00ff41;
+    color: #00ff41;
     font-family: 'Share Tech Mono', monospace;
     font-size: 0.9rem;
     letter-spacing: 0.15em;
@@ -205,6 +205,6 @@
   }
 
   .confirm-btn:hover {
-    background: rgba(0, 245, 255, 0.1);
+    background: rgba(0, 255, 65, 0.1);
   }
 </style>

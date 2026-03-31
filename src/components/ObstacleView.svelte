@@ -249,11 +249,11 @@
   }
   .req.met { border-color: #50fa7b44; background: #0a1810; }
   .req-label { font-size: 0.65rem; color: #445; letter-spacing: 0.1em; font-family: 'Share Tech Mono', monospace; min-width: 45px; }
-  .req-value { font-size: 0.9rem; color: #00f5ff; font-family: 'Share Tech Mono', monospace; font-weight: 700; flex: 1; }
+  .req-value { font-size: 0.9rem; color: #00ff41; font-family: 'Share Tech Mono', monospace; font-weight: 700; flex: 1; }
   .checkmark { color: #50fa7b; }
   .req-bar { width: 80px; height: 6px; background: #1a2535; border-radius: 3px; overflow: hidden; flex-shrink: 0; }
   .req-fill { height: 100%; border-radius: 3px; transition: width 0.3s; }
-  .data-fill { background: #00f5ff; }
+  .data-fill { background: #00ff41; }
 
   .choice-row { display: flex; align-items: stretch; gap: 0.5rem; flex-wrap: wrap; }
   .choice-opt {
@@ -265,7 +265,7 @@
   }
   .choice-opt.met { border-color: #50fa7b44; }
   .choice-sep { display: flex; align-items: center; font-size: 0.7rem; color: #334; font-weight: 700; }
-  .opt-tag { font-family: 'Share Tech Mono', monospace; font-size: 0.8rem; color: #00f5ff; font-weight: 700; }
+  .opt-tag { font-family: 'Share Tech Mono', monospace; font-size: 0.8rem; color: #00ff41; font-weight: 700; }
   .opt-text { font-size: 0.85rem; color: #889; }
   .opt-detail { font-size: 0.72rem; font-family: 'Share Tech Mono', monospace; color: #556; }
 

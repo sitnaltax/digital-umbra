@@ -71,7 +71,7 @@
   h1 {
     font-family: 'Share Tech Mono', monospace;
     font-size: 1.2rem;
-    color: #00f5ff;
+    color: #00ff41;
     letter-spacing: 0.1em;
   }
 
@@ -109,7 +109,7 @@
   }
 
   .target-card:hover {
-    border-color: #00f5ff;
+    border-color: #00ff41;
     background: #0d1e30;
   }
 

@@ -62,9 +62,9 @@ export const CATEGORY_LABELS = {
 
 // UI colors
 export const CATEGORY_COLORS = {
-  social:   '#ff79c6',
-  making:   '#50fa7b',
-  breaking: '#ff5555',
+  social:   '#00f5ff',  // cyan
+  making:   '#aaff00',  // chartreuse
+  breaking: '#ff5555',  // red
 };
 
 export const SKILL_COLORS = Object.fromEntries(

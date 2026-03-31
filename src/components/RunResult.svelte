@@ -96,10 +96,10 @@
   .continue-btn {
     align-self: flex-start;
     padding: 0.75rem 2rem;
-    background: transparent; border: 2px solid #00f5ff;
-    color: #00f5ff; font-family: 'Share Tech Mono', monospace;
+    background: transparent; border: 2px solid #00ff41;
+    color: #00ff41; font-family: 'Share Tech Mono', monospace;
     font-size: 0.85rem; letter-spacing: 0.1em;
     cursor: pointer; transition: background 0.12s;
   }
-  .continue-btn:hover { background: rgba(0,245,255,0.1); }
+  .continue-btn:hover { background: rgba(0,255,65,0.1); }
 </style>

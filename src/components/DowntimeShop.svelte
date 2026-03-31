@@ -133,7 +133,7 @@
     letter-spacing: 0.1em; padding: 0.1rem 0.5rem; border-radius: 3px;
     border: 1px solid;
   }
-  .opt-type-badge.card    { color: #00f5ff; border-color: #00f5ff44; background: #00f5ff11; }
+  .opt-type-badge.card    { color: #00ff41; border-color: #00ff4144; background: #00ff4111; }
   .opt-type-badge.upgrade { color: #ff79c6; border-color: #ff79c644; background: #ff79c611; }
   .opt-type-badge.remove  { color: #ff9580; border-color: #ff958044; background: #ff958011; }
 

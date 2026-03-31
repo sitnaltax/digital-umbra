@@ -74,7 +74,7 @@
   .downtime { display: flex; flex-direction: column; gap: 1.25rem; padding: 1.5rem 0; }
 
   .dt-header { display: flex; flex-direction: column; gap: 0.25rem; }
-  h2 { font-family: 'Share Tech Mono', monospace; font-size: 1.2rem; color: #00f5ff; letter-spacing: 0.1em; }
+  h2 { font-family: 'Share Tech Mono', monospace; font-size: 1.2rem; color: #00ff41; letter-spacing: 0.1em; }
   .dt-sub { font-size: 0.82rem; color: #445; }
 
   .status-summary {

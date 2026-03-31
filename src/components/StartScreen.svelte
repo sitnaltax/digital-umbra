@@ -48,10 +48,10 @@
   .logo-top {
     font-family: 'Share Tech Mono', monospace;
     font-size: clamp(2.5rem, 10vw, 5rem);
-    color: #00f5ff;
+    color: #00ff41;
     letter-spacing: 0.3em;
-    text-shadow: 0 0 20px rgba(0, 245, 255, 0.6),
-                 0 0 40px rgba(0, 245, 255, 0.3);
+    text-shadow: 0 0 20px rgba(0, 255, 65, 0.6),
+                 0 0 40px rgba(0, 255, 65, 0.3);
     line-height: 1;
   }
 
@@ -85,8 +85,8 @@
   .start-btn {
     padding: 1rem 3.5rem;
     background: transparent;
-    border: 2px solid #00f5ff;
-    color: #00f5ff;
+    border: 2px solid #00ff41;
+    color: #00ff41;
     font-family: 'Share Tech Mono', monospace;
     font-size: 1.1rem;
     letter-spacing: 0.2em;
@@ -95,8 +95,8 @@
   }
 
   .start-btn:hover {
-    background: rgba(0, 245, 255, 0.1);
-    box-shadow: 0 0 20px rgba(0, 245, 255, 0.3);
+    background: rgba(0, 255, 65, 0.1);
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
   }
 
   .footer {

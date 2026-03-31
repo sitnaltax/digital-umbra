@@ -101,10 +101,10 @@
 
   .new-game-btn {
     padding: 0.85rem 2.5rem; background: transparent;
-    border: 2px solid #00f5ff; color: #00f5ff;
+    border: 2px solid #00ff41; color: #00ff41;
     font-family: 'Share Tech Mono', monospace;
     font-size: 0.9rem; letter-spacing: 0.15em;
     cursor: pointer; transition: background 0.15s;
   }
-  .new-game-btn:hover { background: rgba(0, 245, 255, 0.1); }
+  .new-game-btn:hover { background: rgba(0, 255, 65, 0.1); }
 </style>

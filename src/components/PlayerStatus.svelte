@@ -209,7 +209,7 @@
 
   .bonus-note {
     font-size: 0.6rem;
-    color: #00f5ff;
+    color: #00ff41;
     margin-left: 0.25rem;
   }
 
